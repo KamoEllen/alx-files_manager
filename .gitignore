@@ -1,0 +1,24 @@
+# Dependency directories
+node_modules/
+
+# Generated files
+coverage/
+*.log
+
+# macOS
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log*
+
+# Build output
+dist/
+build/
+
+# Ignore any other files
+*.bak
